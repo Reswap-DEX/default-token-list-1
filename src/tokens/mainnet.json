@@ -6,5 +6,125 @@
     "decimals": 18,
     "chainId": 250,
     "logoURI": "https://ftmscan.com/token/images/wFtm_32.png"
+  },
+  {
+    "name": "fBTC",
+    "address": "0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E",
+    "symbol": "FBTC",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/fBTC_32.png"
+  },
+  {
+    "name": "ChainLink",
+    "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/chainlink_32.png"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/USDC_32.png"
+  },
+  {
+    "name": "Wrapped BTC",
+    "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+    "symbol": "BTC",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/wBTC_32.png"
+  },
+  {
+    "name": "Aave",
+    "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/aave_32.png"
+  },
+  {
+    "name": "Dai",
+    "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/MCDDai_32.png"
+  },
+  {
+    "name": "yearn.finance",
+    "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
+    "symbol": "YFI",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/YFI_32.png"
+  },
+  {
+    "name": "Curve DAO",
+    "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+    "symbol": "CRV",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/CurveFi_32.png"
+  },
+  {
+    "name": "fBand",
+    "address": "0x078EEF5A2fb533e1a4d487ef64b27DF113d12C32",
+    "symbol": "FBAND",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/fBand_32.png"
+  },
+  {
+    "name": "Hegic",
+    "address": "0x44B26E839eB3572c5E959F994804A5De66600349",
+    "symbol": "HEGIC",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/hegic_32.png"
+  },
+  {
+    "name": "Cover Protocol",
+    "address": "0xB01E8419d842beebf1b70A7b5f7142abbaf7159D",
+    "symbol": "COVER",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/cover_32.png"
+  },
+  {
+    "name": "Keep3r Network",
+    "address": "0x2A5062D22adCFaAfbd5C541d4dA82E4B450d4212",
+    "symbol": "KP3R",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/kp3r_32.png"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/wETH_32.png"
+  },
+  {
+    "name": "fUSD",
+    "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
+    "symbol": "FUSD",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/fUSD_32.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x1B27A9dE6a775F98aaA5B90B62a4e2A0B84DbDd9",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/fUSD_32.png"
   }
 ]
